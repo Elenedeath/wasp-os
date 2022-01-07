@@ -1,9 +1,11 @@
 [submodule "bootloader"]
 	path = bootloader
 	url = https://github.com/Elenedeath/wasp-bootloader
+	branch = P8b
 [submodule "micropython"]
 	path = micropython
 	url = https://github.com/Elenedeath/micropython
+	branch = P8b
 [submodule "tools/intelhex"]
 	path = tools/intelhex
 	url = https://github.com/python-intelhex/intelhex
@@ -25,6 +27,17 @@
 [submodule "reloader"]
 	path = reloader
 	url = https://github.com/Elenedeath/wasp-reloader
+	branch = P8b
 [submodule "wasp/modules/bma42x-upy"]
 	path = wasp/modules/bma42x-upy
 	url = https://github.com/daniel-thompson/bma42x-upy
+[submodule "wasp-bootloader"]
+	path = wasp-bootloader
+	url = https://github.com/Elenedeath/wasp-bootloader
+[submodule "bootloader2"]
+	path = bootloader2
+	url = https://github.com/Elenedeath/wasp-bootloader
+[submodule "bootloader3"]
+	path = bootloader3
+	url = https://github.com/Elenedeath/wasp-bootloader
+	branch = P8b
