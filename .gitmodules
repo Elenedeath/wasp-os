@@ -1,9 +1,9 @@
 [submodule "bootloader"]
 	path = bootloader
-	url = https://github.com/daniel-thompson/wasp-bootloader
+	url = https://github.com/Elenedeath/wasp-bootloader
 [submodule "micropython"]
 	path = micropython
-	url = https://github.com/daniel-thompson/micropython
+	url = https://github.com/Elenedeath/micropython
 [submodule "tools/intelhex"]
 	path = tools/intelhex
 	url = https://github.com/python-intelhex/intelhex
@@ -24,7 +24,7 @@
 	url = https://github.com/daniel-thompson/ota-dfu-python
 [submodule "reloader"]
 	path = reloader
-	url = https://github.com/daniel-thompson/wasp-reloader
+	url = https://github.com/Elenedeath/wasp-reloader
 [submodule "wasp/modules/bma42x-upy"]
 	path = wasp/modules/bma42x-upy
 	url = https://github.com/daniel-thompson/bma42x-upy
